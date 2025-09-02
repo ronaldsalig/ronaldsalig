@@ -1,4 +1,4 @@
-<img width="1280" height="640" alt="ChatGPT Image Sep 2, 2025, 10_56_48 PM" src="https://github.com/user-attachments/assets/40c8c867-b261-4e7f-b3e5-fb7d77916e6f" />
+<img width="1500" height="500" alt="Banner" src="https://github.com/user-attachments/assets/1ad06862-b444-47f3-97af-00d66c37075c" />
 
 
 ## ✍️ *About Me*  
@@ -39,20 +39,39 @@
 
 ---
 
+## 🎉 *Fun Facts & Hobbies*  
+- 🎮 I love exploring and creating games  
+- 🎵 Music keeps me focused while coding  
+- 📚 Always curious to learn something new about AI & ML  
+- ☕ Coffee = productivity booster  
+- 🌌 Big fan of tech, creativity, and the universe 🌍✨  
+
+---
+
 ## 🌍 *Let’s Connect!*  
 <p align="center">
-  <a href="https://facebook.com/yourprofile" target="_blank">
+  <a href="https://www.facebook.com/miles.venson.90/" target="_blank">
     <img src="https://img.icons8.com/fluency/60/facebook.png" alt="Facebook"/>
   </a>
-  <a href="https://instagram.com/yourprofile" target="_blank">
+  <a href="https://www.instagram.com/saligronald/" target="_blank">
     <img src="https://img.icons8.com/fluency/60/instagram-new.png" alt="Instagram"/>
   </a>
-  <a href="https://github.com/RonaldSalig" target="_blank">
+  <a href="https://github.com/ronaldsalig" target="_blank">
     <img src="https://img.icons8.com/fluency/60/github.png" alt="GitHub"/>
   </a>
   <a href="https://linkedin.com/in/yourprofile" target="_blank">
     <img src="https://img.icons8.com/fluency/60/linkedin.png" alt="LinkedIn"/>
   </a>
 </p>
+
+---
+
+## 💡 *Motto*  
+<p align="center">
+  <em>"If you can dream it, You can do it!"</em> ✨🚀
+</p>
+
+
+
 
 ⭐️ _Thanks for visiting my profile! Let’s connect and build something amazing together._ 🚀
