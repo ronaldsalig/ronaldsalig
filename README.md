@@ -38,6 +38,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldSalig&layout=compact&theme=radical" height="150"/>
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=RonaldSalig&theme=radical&border_radius=10" height="150"/>
+</p>
+
 ---
 
 ## 🎉 *Fun Facts & Hobbies*  
@@ -52,16 +56,16 @@
 ## 🌍 *Let’s Connect!*  
 <p align="center">
   <a href="https://www.facebook.com/miles.venson.90/" target="_blank">
-    <img src="https://img.icons8.com/fluency/60/facebook.png" alt="Facebook"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="50" height="50"/>
   </a>
   <a href="https://www.instagram.com/saligronald/" target="_blank">
-    <img src="https://img.icons8.com/fluency/60/instagram-new.png" alt="Instagram"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="50" height="50"/>
   </a>
-  <a href="https://github.com/ronaldsalig" target="_blank">
-    <img src="https://img.icons8.com/fluency/60/github.png" alt="GitHub"/>
+  <a href="https://github.com/RonaldSalig" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" width="50" height="50"/>
   </a>
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.icons8.com/fluency/60/linkedin.png" alt="LinkedIn"/>
+  <a href="www.linkedin.com/in/saligronald" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="50" height="50"/>
   </a>
 </p>
 
