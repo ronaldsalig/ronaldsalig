@@ -1,15 +1,12 @@
-<img width="1500" height="500" alt="275fc762-545b-4583-9a2f-60a9c4a9ab09" src="https://github.com/user-attachments/assets/b7969019-32e5-4142-8dee-d3cb88fc0524" />
 
-
-
-## ✍️ *About Me*  
+##  *About Me*  
 🎓 *Student @ University of Science and Technology of the Southern Philippines*  
 💻 *Aspiring Software Engineer* | *AI & Machine Learning Enthusiast*  
 🌟 *Passionate about turning ideas into impactful software solutions*  
 
 ---
 
-## 🛠️ *Tech Stack*  
+##  *Tech Stack*  
 <p align="center">
   <a href="https://reactnative.dev/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React Native" width="60" height="60"/>
@@ -27,12 +24,12 @@
 
 ---
 
-## 📌 *Featured Projects*  
-🚧 *Coming soon… Stay tuned for apps, games, and AI projects in progress!*  
+##  *Featured Projects*  
+ *Coming soon… Stay tuned for apps, games, and AI projects in progress!*  
 
 ---
 
-## 📊 *GitHub Stats*  
+##  *GitHub Stats*  
 
 <p align="center">
   <a href="https://git.io/streak-stats">
@@ -42,7 +39,7 @@
 
 ---
 
-## 🎉 *Fun Facts & Hobbies*  
+##  *Fun Facts & Hobbies*  
 - 🎮 I love exploring and creating games  
 - 🎵 Music keeps me focused while coding  
 - 📚 Always curious to learn something new about AI & ML  
@@ -51,7 +48,7 @@
 
 ---
 
-## 🌍 *Let’s Connect!*  
+##  *Let’s Connect!*  
 <p align="center">
   <a href="https://www.facebook.com/miles.venson.90/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="50" height="50"/>
@@ -69,12 +66,12 @@
 
 ---
 
-## 💡 *Motto*  
+##  *Motto*  
 <p align="center">
-  <em>"If you can dream it, You can do it!"</em> ✨🚀
+  <em>"concistency is key."</em> ✨🚀
 </p>
 
 
 
 
-⭐️ _Thanks for visiting my profile! Let’s connect and build something amazing together._ 🚀
+ _Thanks for visiting my profile! Let’s connect and build something amazing together._ 
